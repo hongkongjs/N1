@@ -1,9 +1,11 @@
 # Working with N1 on Windows
 
-This is for Windows 8.1
+This is for Windows 10
 
 # Getting Started
 
+1. Make sure you have installed the latest Visual Studio for your version of
+   Windows. For Windows 10, the free [Visual Studio Community 2015](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx) was sufficient
 1. Make sure you have installed Node.js. We used the Node 4.1.2 installer
    off of the node.js homepage and installed it to the default of
    `C:\Program Files\nodejs`
